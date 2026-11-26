@@ -1,0 +1,5 @@
+# Only the GUI needs third-party packages. The terminal app and core engine use the standard library.
+streamlit>=1.40
+pandas>=2.0
+# Optional: lets the terminal "Export" menu and the Reports page save a PNG chart
+matplotlib>=3.7

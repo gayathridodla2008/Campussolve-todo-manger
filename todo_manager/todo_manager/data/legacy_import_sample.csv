@@ -1,0 +1,16 @@
+Task,Category,Priority,Deadline,Status,Notes
+Revise probability notes,Exams,High,27/11/2026,Pending,Unit 3 and 4
+Clean up GitHub repository,Projects,Low,03/12/2026,Pending,
+Collect hall ticket,Academics,Critical,24/11/2026,Pending,
+Return lab keys,Personal,Low,21/11/2026,Done,Already returned
+Order project stationery,Projects,Medium,28/11/2026,Pending,
+Mock interview with placement cell,Academics,High,05/12/2026,Pending,
+Watch DevOps tutorial,Academics,Low,,Pending,No deadline
+,Personal,Medium,26/11/2026,Pending,ERROR: blank title
+Submit form 16,Finance,Medium,31/02/2027,Pending,ERROR: impossible date
+Call the electrician,Personal,Urgent!!,25/11/2026,Pending,ERROR: unknown priority
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,Personal,Low,01/12/2026,Pending,ERROR: title longer than 100 characters
+Finish reading assigned paper,Academics,Medium,29/11/2026,Maybe,ERROR: unknown status
+Data Structures quiz 3,Exams,High,22/11/2026,Pending,ERROR: duplicate of a pending task in the seed data
+Prepare farewell speech,Clubs,Medium,22/12/2026,Pending,
+Back up laptop files,Personal,Low,08/12/2026,Pending,
